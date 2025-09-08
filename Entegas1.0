@@ -1,0 +1,19 @@
+# Máximo Entregas
+
+Aplicativo de entregas rápidas para restaurantes e lojas locais.
+
+## Tecnologias
+- Frontend: React Native / Flutter
+- Backend: Node.js / Firebase
+- Banco de dados: Firestore / MySQL
+- API de mapas: Google Maps
+
+## Estrutura de cores
+- Primária: Azul marinho (#0B1F48)
+- Destaque: Vermelho (#FF3B30) ou Amarelo (#FFD700)
+- Confirmação: Verde (#28A745)
+
+## Próximos passos
+1. Criar telas principais (Login, Pedidos, Mapa, Perfil)
+2. Testar fluxo de pedidos e entregas
+3. Preparar versão de teste
