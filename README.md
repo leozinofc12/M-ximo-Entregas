@@ -1,11 +1,11 @@
 /maximo-entregas
   /frontend
-    README.md
     App.js
+    package.json
+    /assets
+      /images
+      /icons
   /backend
-    README.md
     server.js
-  /assets
-    /images
-    /icons
+    package.json
   README.md
